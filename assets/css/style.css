@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fef9f5;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 200px;
+  background: #fff;
+  border-right: 1px solid #eee;
+  padding: 20px;
+}
+
+.content {
+  padding: 40px;
+  flex: 1;
+}

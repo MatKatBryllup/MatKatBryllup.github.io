@@ -1,0 +1,6 @@
+title: "Our Wedding"
+description: "You're invited to celebrate with us"
+baseurl: ""  # Leave empty for GitHub Pages root
+url: "https://yourusername.github.io"
+markdown: kramdown
+theme: minima  # or use a custom one
